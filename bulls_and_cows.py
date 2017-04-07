@@ -1,9 +1,3 @@
-"""
-Bulls and Cows bc module
-Author: Gregory V. Cuesta
-Date: 10/10/2016
-"""
-
 import random
 
 def generate_secret():
